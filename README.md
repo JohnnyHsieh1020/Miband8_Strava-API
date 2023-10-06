@@ -20,4 +20,4 @@ Collect activity data from Mi band 8
 
 ## Others
 
-### This project is based on [franchyze923/Strava_Api](https://github.com/franchyze923/Code_From_Tutorials/tree/master/Strava_Api)🙏
+This project is based on [franchyze923/Strava_Api](https://github.com/franchyze923/Code_From_Tutorials/tree/master/Strava_Api)🙏
